@@ -1,7 +1,6 @@
 # code-quiz
 
 Purpose of this project is to create a timed JavaScript quiz, where users may save their score to their local storage after completing the coding quiz challenge by entering their initials.
-All the saved scores can be viewed on the highscores pageRestarting the quiz will clear the stored scores.
 
 Description
 - The quiz is made up of 5 questions 
@@ -32,9 +31,7 @@ As you proceed in your career as a web developer, you will probably be asked to 
 ## User Story
 
 ```
-AS A coding bootcamp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-SO THAT I can gauge my progress compared to my peers
+As a coding bootcamp student, I want to use this quiz to test the abilities in which i have learnt thus far and compare to my fellow student.
 ```
 
 ## Acceptance Criteria
@@ -53,9 +50,7 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
-The following animation demonstrates the application functionality:
 
-![code quiz](04-web-apis-homework-demo.gif)
 
 ### Review
 
