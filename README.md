@@ -21,7 +21,6 @@ Intervals
 Conditional statements
 DOM manipulation
 Local storage accessClasses, CSS Transitions, Breakpoints  Event Listeners, setTimeout/ setInterval, Using Local Storage
-https://princeinoba.github.io/bootcamp-homework4/
 
 
 # 04 Web APIs: Code Quiz
@@ -56,12 +55,6 @@ THEN I can save my initials and score
 
 You are required to submit the following for review:
 
-* The URL of the functional, deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. homework assignment. [Carleton University Coding Bootcamp](https://bootcamp.carleton.ca/). All Rights Reserved.
